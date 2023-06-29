@@ -6,3 +6,5 @@ refs-openrpc.json
 data.json
 schema.json
 *.dic
+._*
+package-lock.json
